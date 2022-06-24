@@ -13,3 +13,6 @@ In ReactJS, Axios is a library that serves to create HTTP requests that are pres
 
 ## Tech Stacks:
 HTML, CSC, Js, React.js
+
+
+![1](https://user-images.githubusercontent.com/98590771/175605626-11b44100-0e26-46ce-afdd-664d28e70cf1.png)
